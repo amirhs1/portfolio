@@ -1,21 +1,22 @@
 #-------------------------------
 # General Site Settings
-title: John Doe
-description: "I am an aspiring Data Scientist building up my portfolio which focuses on interesting and impactful projects that I have undertaken recently."
+title: Amir Sadeghi
+description: "I’m a computational biophysicist turned applied scientist with expertise in large-scale simulations, data management and analytics, ML/AI/GenAI tools, and cloud infrastructure. I’m seeking opportunities to develop intelligent, production-grade systems that bring scientific rigor to real-world challenges across business, research, and technology."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # About Section
-subtitle: Data Science <span style="color:#f58506"> Portfolio </span>
-location: "London, UK"
-resume_url: "https://vidhyav656.github.io"
-avatar_image: /img/avatar.jpg
+subtitle: Applied Scientist Portfolio #<span style="color:#f58506"> Portfolio </span>
+location: "Ontario, Canada"
+resume_url: "/docs/amirhsi_resume.pdf"
+avatar_image: /img/amirhsi_avatar.jpg
 
 #-------------------------------
 # Contact links
-linkedln: "https://linkedln.com/#" # Add your linkedln handle
-github: "https://github.com/#"  # Add your github handle
+linkedln: "https://www.linkedin.com/in/amirhsi/" # Add your linkedln handle
+github: "https://github.com/amirhs1"  # Add your github handle
+google_scholar: "https://scholar.google.ca/citations?user=g6jv8aQAAAAJ&hl=en" # Add your google scholar handle
 
 #-------------------------------
 # Build settings
