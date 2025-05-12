@@ -9,7 +9,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # About Section
 subtitle: Applied Scientist Portfolio #<span style="color:#f58506"> Portfolio </span>
 location: "Ontario, Canada"
-resume_url: "/docs/amirhsi_resume.pdf"
+resume_url: "/assets/amirhsi_resume.pdf"
 avatar_image: /img/amirhsi_avatar.jpg
 
 #-------------------------------
